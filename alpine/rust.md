@@ -1,0 +1,2 @@
+- https://www.rust-lang.org/tools/install
+- https://forge.rust-lang.org/infra/other-installation-methods.html
