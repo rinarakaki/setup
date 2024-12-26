@@ -1,8 +1,14 @@
-# Prerequisite Environment Variables
+# Common Environment Variables
 
 ```sh
 export `grep '^ID' /etc/os-release`  # ID=debian
 export `grep '^VERSION_CODENAME' /etc/os-release`  # VERSION_CODENAME=bookworm
+```
+
+# Common Tools
+
+```sh
+apt install curl gnupg
 ```
 
 # Prerequisite Knowledge
