@@ -11,4 +11,5 @@ tar xvf asterisk-$ASTERISK_VERSION-current.tar.gz
 cd asterisk-$ASTERISK_VERSION.*
 ./configure
 make
+make install
 ```
